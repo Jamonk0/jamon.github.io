@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#sans-battle {
+    margin-top: 50px;
+}
+
+img {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkred;
+}
